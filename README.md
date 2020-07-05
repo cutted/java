@@ -4,5 +4,3 @@ Java cheatsheet - https://sites.google.com/port.ac.uk/java-distilled
 - Introduction to Programming `was mainly done in python` (Module)
 ### PAPL
 - Programming Applications & Programming Languages (Module)
-### POSystem
-- Pizza Ordering System (Coursework)
